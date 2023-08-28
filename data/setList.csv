@@ -1,0 +1,390 @@
+﻿,name,code
+0,1. Doctorado,com_20.500.12404_1
+1,2. Maestría,com_20.500.12404_2
+2,3. Licenciatura,com_20.500.12404_3
+3,4. Bachillerato,com_20.500.12404_1253
+4,5. Segunda Especialidad,com_20.500.12404_8339
+5,CENTRUM,com_20.500.12404_742
+6,CENTRUM,com_20.500.12404_776
+7,Doctorado por Destacada Trayectoria Académica,com_20.500.12404_4738
+8,Escuela de Posgrado,com_20.500.12404_740
+9,Escuela de Posgrado,com_20.500.12404_777
+10,Facultad de Administración y Contabilidad,com_20.500.12404_5
+11,Facultad de Arquitectura y Urbanismo,com_20.500.12404_10050
+12,Facultad de Arquitectura y Urbanismo,com_20.500.12404_16550
+13,Facultad de Artes Escénicas,com_20.500.12404_7735
+14,Facultad de Artes Escénicas,com_20.500.12404_16560
+15,Facultad de Arte y Diseño,com_20.500.12404_16552
+16,Facultad de Arte y Diseño,com_20.500.12404_735
+17,Facultad de Ciencias Administrativas,com_20.500.12404_1418
+18,Facultad de Ciencias Contables,com_20.500.12404_12869
+19,Facultad de Ciencias Contables,com_20.500.12404_14929
+20,Facultad de Ciencias e Ingeniería,com_20.500.12404_13334
+21,Facultad de Ciencias e Ingeniería,com_20.500.12404_7
+22,Facultad de Ciencias Sociales,com_20.500.12404_5219
+23,Facultad de Ciencias Sociales,com_20.500.12404_6
+24,Facultad de Ciencias y Artes de la Comunicación,com_20.500.12404_15905
+25,Facultad de Ciencias y Artes de la Comunicación,com_20.500.12404_18
+26,Facultad de Derecho,com_20.500.12404_8340
+27,Facultad de Derecho,com_20.500.12404_709
+28,Facultad de Derecho,com_20.500.12404_1255
+29,Facultad de Educación,com_20.500.12404_5465
+30,Facultad de Educación,com_20.500.12404_20
+31,Facultad de Educación,com_20.500.12404_8363
+32,Facultad de Estudios Interdisciplinarios,com_20.500.12404_16544
+33,Facultad de Gestión y Alta Dirección,com_20.500.12404_877
+34,Facultad de Gestión y Alta Dirección,com_20.500.12404_16463
+35,Facultad de Letras y Ciencias Humanas,com_20.500.12404_1257
+36,Facultad de Letras y Ciencias Humanas,com_20.500.12404_22
+37,Facultad de Psicología,com_20.500.12404_16528
+38,Facultad de Psicología,com_20.500.12404_9470
+39,Facultad de Psicología,com_20.500.12404_15779
+40,Maestría por Destacada Trayectoria Académica,com_20.500.12404_1390
+41,Administración,col_20.500.12404_1581
+42,Administración de la Energía,col_20.500.12404_16484
+43,Administración de Negocios,col_20.500.12404_741
+44,Administración de Negocios Globales,col_20.500.12404_4580
+45,Administración de Negocios Globales de Energía y Minería,col_20.500.12404_16485
+46,Administración de Negocios (Mag.),col_20.500.12404_4582
+47,Administración Estratégica de Empresas (Dr.),col_20.500.12404_779
+48,Administración Estratégica de Empresas (Mag.),col_20.500.12404_780
+49,Administración Estratégica de Negocios,col_20.500.12404_743
+50,Administración Estratégica de Negocios Alimentarios Globales,col_20.500.12404_16486
+51,Administración Estratégica de Negocios Jurídicos,col_20.500.12404_16487
+52,Altos Estudios Amazónicos,col_20.500.12404_7857
+53,Antropología con mención en Estudios Andinos,col_20.500.12404_4869
+54,Antropología con mención en Estudios Andinos,col_20.500.12404_16471
+55,Antropología (Dr.),col_20.500.12404_778
+56,Antropología Forense y Bioarqueología,col_20.500.12404_745
+57,Antropología (Lic.),col_20.500.12404_1027
+58,Antropología (Mag.),col_20.500.12404_744
+59,Antropología Visual,col_20.500.12404_1350
+60,Argumentación Jurídica,col_20.500.12404_16256
+61,Arqueología,col_20.500.12404_15752
+62,Arqueología,col_20.500.12404_26
+63,Arqueología Aplicada,col_20.500.12404_16488
+64,Arqueología con mención en Estudios Andinos,col_20.500.12404_16477
+65,Arqueología con mención en Estudios Andinos,col_20.500.12404_1667
+66,Arquitectura,col_20.500.12404_10051
+67,Arquitectura,col_20.500.12404_16551
+68,"Arquitectura, Urbanismo y Desarrollo Territorial Sostenible",col_20.500.12404_14121
+69,Arquitectura y Procesos Proyectuales,col_20.500.12404_13212
+70,Arte con mención en Diseño Gráfico,col_20.500.12404_830
+71,Arte con mención en Diseño Gráfico,col_20.500.12404_16553
+72,Arte con mención en Diseño Industrial,col_20.500.12404_857
+73,Arte con Mención en Diseño Industrial,col_20.500.12404_16554
+74,Arte con mención en Educación Artística,col_20.500.12404_16534
+75,Arte con mención en Educación Artística,col_20.500.12404_16555
+76,Arte con mención en Escultura,col_20.500.12404_16556
+77,Arte con mención en Escultura,col_20.500.12404_1536
+78,Arte con mención en Grabado,col_20.500.12404_965
+79,Arte con mención en Grabado,col_20.500.12404_16557
+80,Arte con mención en Pintura,col_20.500.12404_16558
+81,Arte con mención en Pintura,col_20.500.12404_736
+82,"Arte, Moda y Diseño Textil",col_20.500.12404_16559
+83,"Arte, Moda y Diseño Textil",col_20.500.12404_16533
+84,Artes Escénicas,col_20.500.12404_14904
+85,Artes Escénicas,col_20.500.12404_19
+86,Artes Escénicas con mención en Creación y Producción Escénica,col_20.500.12404_16561
+87,Artes Escénicas con mención en Danza,col_20.500.12404_16562
+88,Artes Escénicas con mención en Música,col_20.500.12404_16563
+89,Artes Escénicas con mención en Teatro,col_20.500.12404_16564
+90,"Audición, Lenguaje y Aprendizaje",col_20.500.12404_12593
+91,• Bibliotecología y Ciencia de la Información,col_20.500.12404_1050
+92,Biocomercio y Desarrollo Sostenible,col_20.500.12404_4463
+93,Ciencia Política,col_20.500.12404_17380
+94,Ciencia Política con mención en Gestión Pública,col_20.500.12404_13582
+95,Ciencia Política con mención en Relaciones Internacionales,col_20.500.12404_12876
+96,Ciencia Política y Gobierno con mención en Administración Pública,col_20.500.12404_7389
+97,Ciencia Política y Gobierno con mención en Gerencia Pública,col_20.500.12404_5168
+98,Ciencia Política y Gobierno con mención en Instituciones Políticas,col_20.500.12404_5893
+99,Ciencia Política y Gobierno con mención en Políticas Públicas y Gestión Pública,col_20.500.12404_5170
+100,Ciencia Política y Gobierno con mención en Políticas Públicas y Sociedad Civil,col_20.500.12404_5166
+101,Ciencia Política y Gobierno (Dr.),col_20.500.12404_5272
+102,Ciencia Política y Gobierno (Lic.),col_20.500.12404_1054
+103,Ciencia Política y Relaciones Internacionales,col_20.500.12404_5167
+104,Ciencia Política y Relaciones Internacionales con Mención en Política Comparada,col_20.500.12404_5169
+105,Ciencia Política y Relaciones Internacionales con Mención en Relaciones Internacionales,col_20.500.12404_5171
+106,Ciencias,col_20.500.12404_1391
+107,Ciencias Administrativas,col_20.500.12404_1419
+108,Ciencias con mención en Energía,col_20.500.12404_6284
+109,Ciencias con mención en Estadística,col_20.500.12404_15963
+110,Ciencias con mención en Física,col_20.500.12404_15958
+111,Ciencias con mención en Ingeniería Biomédica,col_20.500.12404_16565
+112,Ciencias con mención en Ingeniería Civil,col_20.500.12404_13336
+113,Ciencias con mención en Ingeniería de las Telecomunicaciones,col_20.500.12404_15959
+114,Ciencias con mención en Ingeniería de Minas,col_20.500.12404_15918
+115,Ciencias con mención en Ingeniería Electrónica,col_20.500.12404_15941
+116,Ciencias con mención en Ingeniería Geológica,col_20.500.12404_15646
+117,Ciencias con mención en Ingeniería Industrial,col_20.500.12404_15820
+118,Ciencias con mención en Ingeniería Informática,col_20.500.12404_15964
+119,Ciencias con mención en Ingeniería Mecánica,col_20.500.12404_15924
+120,Ciencias con mención en Ingeniería Mecatrónica,col_20.500.12404_15843
+121,Ciencias con mención en Matemáticas,col_20.500.12404_15962
+122,Ciencias con mención en Química,col_20.500.12404_15917
+123,Ciencias de la Educación (Dr.),col_20.500.12404_6239
+124,Ciencias de la Información,col_20.500.12404_29
+125,Ciencias (Dr.),col_20.500.12404_7484
+126,Ciencias Sociales con mención en Antropología,col_20.500.12404_15969
+127,Ciencias Sociales con mención en Ciencia Política y Gobierno,col_20.500.12404_15970
+128,Ciencias Sociales con mención en Economía,col_20.500.12404_15864
+129,Ciencias Sociales con mención en Finanzas,col_20.500.12404_15971
+130,Ciencias Sociales con mención en Relaciones Internacionales,col_20.500.12404_15972
+131,Ciencias Sociales con mención en Sociología,col_20.500.12404_5220
+132,Ciencias y Artes de la Comunicación con mención en Comunicación Audiovisual,col_20.500.12404_16053
+133,Ciencias y Artes de la Comunicación con mención en Comunicación para el Desarrollo,col_20.500.12404_15906
+134,Ciencias y Artes de la Comunicación con mención en Periodismo,col_20.500.12404_16112
+135,Ciencias y Artes de la Comunicación con mención en Publicidad,col_20.500.12404_16111
+136,Ciencias y Artes de la Hospitalidad : Hotelería,col_20.500.12404_16545
+137,Ciencias y Artes de la Hospitalidad : Turismo,col_20.500.12404_16546
+138,Clínica Psicoanalítica,col_20.500.12404_16529
+139,"Cognición, Aprendizaje y Desarrollo",col_20.500.12404_6323
+140,Comunicación Audiovisual,col_20.500.12404_949
+141,Comunicación en Salud,col_20.500.12404_16489
+142,Comunicaciones,col_20.500.12404_747
+143,Comunicación para el Desarrollo,col_20.500.12404_950
+144,Contabilidad,col_20.500.12404_14930
+145,Contabilidad,col_20.500.12404_8
+146,Contabilidad,col_20.500.12404_13621
+147,Contabilidad Pública,col_20.500.12404_12870
+148,Creación y Producción Escénica,col_20.500.12404_16470
+149,Danza,col_20.500.12404_12312
+150,Derecho Administrativo,col_20.500.12404_11760
+151,Derecho Ambiental y de los Recursos Naturales,col_20.500.12404_8341
+152,Derecho Bancario y  Financiero,col_20.500.12404_4725
+153,Derecho Bancario y Financiero con mención en Gestión Financiera,col_20.500.12404_5832
+154,Derecho Bancario y Financiero con mención en Regulación Bancaria,col_20.500.12404_16490
+155,Derecho (Br.),col_20.500.12404_1256
+156,Derecho Civil,col_20.500.12404_748
+157,Derecho con mención en Derecho Civil,col_20.500.12404_13882
+158,Derecho con mención en Derecho de la Empresa,col_20.500.12404_14190
+159,Derecho con mención en Derecho del Trabajo y de la Seguridad Social,col_20.500.12404_16491
+160,Derecho con mención en Política Jurisdiccional,col_20.500.12404_1464
+161,Derecho con mención en Política Jurisdiccional Especialidad en Gestión y Política Judicial,col_20.500.12404_16492
+162,Derecho Constitucional,col_20.500.12404_751
+163,Derecho de la Empresa,col_20.500.12404_752
+164,Derecho de la Empresa : Banca y Finanzas,col_20.500.12404_16494
+165,Derecho de la Empresa con mención en Gestión Empresarial,col_20.500.12404_9733
+166,Derecho de la Empresa con mención en Responsabilidad Social,col_20.500.12404_16493
+167,Derecho de la Empresa : Regulación de Negocios,col_20.500.12404_16495
+168,Derecho de la Propiedad Intelectual y de la Competencia,col_20.500.12404_1532
+169,Derecho del Trabajo y de la Seguridad Social,col_20.500.12404_4446
+170,Derecho del Trabajo y de la Seguridad Social,col_20.500.12404_8342
+171,Derecho de Protección al Consumidor,col_20.500.12404_8529
+172,Derecho (Dr.),col_20.500.12404_1398
+173,Derecho Internacional Económico,col_20.500.12404_753
+174,Derecho Internacional Privado,col_20.500.12404_16527
+175,Derecho Internacional Público,col_20.500.12404_13871
+176,Derecho (Lic.),col_20.500.12404_710
+177,Derecho Penal,col_20.500.12404_1596
+178,Derecho Procesal,col_20.500.12404_4663
+179,Derecho Procesal,col_20.500.12404_9442
+180,Derecho Procesal Laboral,col_20.500.12404_16526
+181,Derecho Público y Buen Gobierno,col_20.500.12404_8527
+182,Derecho Registral,col_20.500.12404_8528
+183,Derechos Fundamentales y Constitucionalismo en América Latina,col_20.500.12404_10254
+184,Derechos Humanos,col_20.500.12404_1168
+185,Derechos Humanos con mención en Pueblos Indígenas,col_20.500.12404_16496
+186,Derecho Tributario,col_20.500.12404_11761
+187,Derecho Tributario,col_20.500.12404_4718
+188,Desarrollo Ambiental,col_20.500.12404_1297
+189,Desarrollo Humano: Enfoques y Políticas,col_20.500.12404_6910
+190,Dificultades de la Comunicación y el Lenguaje,col_20.500.12404_12763
+191,Dificultades Específicas de Aprendizaje,col_20.500.12404_14344
+192,Dirección de Cadenas de Aprovisionamiento,col_20.500.12404_15124
+193,Dirección de Marketing,col_20.500.12404_7583
+194,Dirección de Operaciones Productivas,col_20.500.12404_7732
+195,Dirección Estratégica de Empresas,col_20.500.12404_4581
+196,Dirección Estratégica y Liderazgo,col_20.500.12404_7765
+197,Docencia Universitaria,col_20.500.12404_14902
+198,Economía con mención en Crecimiento y Desarrollo Económico,col_20.500.12404_5552
+199,Economía con mención en Economía Aplicada,col_20.500.12404_16498
+200,Economía con mención en Economía Empresarial,col_20.500.12404_16499
+201,Economía (Dr.),col_20.500.12404_5144
+202,Economía (Lic.),col_20.500.12404_1026
+203,Economía (Mag.),col_20.500.12404_754
+204,Educación (Br),col_20.500.12404_5466
+205,Educación con especialidad en Educación Inicial,col_20.500.12404_1743
+206,• Educación con especialidad en Educación para el Desarrollo,col_20.500.12404_4438
+207,Educación con especialidad en Educación Primaria,col_20.500.12404_1739
+208,Educación con especialidad en Historia y Geografía,col_20.500.12404_16541
+209,Educación con mención en Currículo,col_20.500.12404_1298
+210,Educación con mención en Dificultades de Aprendizaje,col_20.500.12404_1299
+211,Educación con mención en Gestión de la Educación,col_20.500.12404_763
+212,Educación con mención en la Enseñanza de la Física,col_20.500.12404_16497
+213,Educación con mención en la Enseñanza de la Matemática,col_20.500.12404_21403
+214,Educación (Mag.),col_20.500.12404_6168
+215,• Educación Secundaria con especialidad en Ciencias Naturales,col_20.500.12404_8962
+216,• Educación Secundaria con especialidad en Ciencias Sociales,col_20.500.12404_22260
+217,• Educación Secundaria con especialidad en Educación Artística,col_20.500.12404_14434
+218,• Educación Secundaria con especialidad en Filosofía y Ciencias Sociales,col_20.500.12404_1741
+219,• Educación Secundaria con especialidad en Física y Quimica,col_20.500.12404_5142
+220,• Educación Secundaria con especialidad en Historia y Geografía,col_20.500.12404_1744
+221,• Educación Secundaria con especialidad en Inglés,col_20.500.12404_12815
+222,• Educación Secundaria con especialidad en Lengua y Literatura,col_20.500.12404_21
+223,• Educación Secundaria con especialidad en Matemática,col_20.500.12404_4942
+224,Emprendimiento y Nuevos Negocios,col_20.500.12404_16500
+225,Energía,col_20.500.12404_9487
+226,Enseñanza de Comunicación y Matemática a estudiantes de II y III Ciclo de Educación Básica Regular,col_20.500.12404_8479
+227,Enseñanza de la Química,col_20.500.12404_756
+228,Enseñanza del Área de Formación Ciudadana y Cívica para el Nivel de Educación Secundaria de Educación Básica Regular,col_20.500.12404_8364
+229,"Enseñanza del Área de Historia, Geografía y Economía para el Nivel de Educación Secundaria de Educación Básica Regular",col_20.500.12404_13076
+230,Enseñanza de las Matemáticas,col_20.500.12404_755
+231,Enseñanza de las Matemáticas con mención en Educación Primaria,col_20.500.12404_16504
+232,Enseñanza de las Matemáticas con mención en Educación Secundaria,col_20.500.12404_16505
+233,Enseñanza del Inglés como Lengua Extranjera,col_20.500.12404_16530
+234,Escritura Creativa,col_20.500.12404_16506
+235,Estadística,col_20.500.12404_757
+236,Estadística,col_20.500.12404_16537
+237,Estudios Culturales,col_20.500.12404_1167
+238,Estudios de Género,col_20.500.12404_4829
+239,Estudios Psicoanalíticos,col_20.500.12404_16478
+240,Estudios Teóricos en Psicoanálisis,col_20.500.12404_758
+241,Filosofía (Dr.),col_20.500.12404_1310
+242,Filosofía (Lic.),col_20.500.12404_27
+243,Filosofía (Mag.),col_20.500.12404_759
+244,Finanzas,col_20.500.12404_16539
+245,Finanzas Corporativas y Riesgo Financiero,col_20.500.12404_7539
+246,Física Aplicada,col_20.500.12404_761
+247,Física (Dr.),col_20.500.12404_6344
+248,Física (Lic.),col_20.500.12404_10
+249,Física (Mag.),col_20.500.12404_760
+250,Fonoaudiología,col_20.500.12404_916
+251,"Fonoaudiología con mención en Motricidad Orofacial, Voz y Tartamudez",col_20.500.12404_5844
+252,Fonoaudiología con mención en Trastornos del Lenguaje en Niños y Adolescentes,col_20.500.12404_5843
+253,Geografía y Medio Ambiente,col_20.500.12404_30
+254,Gerencia del Desarrollo Competitivo Regional,col_20.500.12404_16501
+255,Gerencia de Tecnologías de Información,col_20.500.12404_15123
+256,Gerencia Social,col_20.500.12404_762
+257,Gerencia Social con mención en Gerencia de la Participación Ciudadana,col_20.500.12404_21033
+258,Gerencia Social con mención en Gerencia de la Participación Comunitaria,col_20.500.12404_15426
+259,Gerencia Social con mención en Gerencia Del Desarrollo Económico Local,col_20.500.12404_15832
+260,Gerencia Social con mención en Gerencia de Prevención y Mitigación de Riesgos de Desastres,col_20.500.12404_16502
+261,Gerencia Social con mención en Gerencia de Programas y Proyectos de Desarrollo,col_20.500.12404_15468
+262,Gestión,col_20.500.12404_16464
+263,Gestión con mención en Gestión de Instituciones de Educación Superior,col_20.500.12404_9461
+264,Gestión con mención en Gestión Empresarial (Lic.),col_20.500.12404_1280
+265,Gestión con mención en Gestión Pública (Lic.),col_20.500.12404_1279
+266,Gestión con mención en Gestión Social (Lic.),col_20.500.12404_878
+267,Gestión de la Ingeniería,col_20.500.12404_16503
+268,Gestión de los Recursos Hídricos,col_20.500.12404_7148
+269,Gestión de Políticas y Programas para el Desarrollo Infantil Temprano,col_20.500.12404_16507
+270,Gestión Escolar con Liderazgo Pedagógico,col_20.500.12404_10251
+271,"Gestión Estratégica con mención en Ciencias, Ingeniería y Tecnología",col_20.500.12404_16479
+272,Gestión Estratégica con mención en Economía Aplicada y Finanzas,col_20.500.12404_16480
+273,Gestión Estratégica con mención en Gestión Empresarial y Sostenibilidad,col_20.500.12404_15270
+274,Gestión Estratégica con mención en Innovación y Gestión en Educación Superior,col_20.500.12404_16481
+275,Gestión Estratégica de Talento,col_20.500.12404_15122
+276,Gestión y Dirección de Empresas Constructoras e Inmobiliarias,col_20.500.12404_1224
+277,Gestión y Política de la Innovación y la Tecnología,col_20.500.12404_1440
+278,Gobierno y Políticas Públicas,col_20.500.12404_12741
+279,Historia con mención en Estudios Andinos,col_20.500.12404_4511
+280,Historia con mención en Estudios Andinos,col_20.500.12404_15890
+281,Historia con mención en Historia Económica,col_20.500.12404_16508
+282,Historia del Arte y Curaduría,col_20.500.12404_5172
+283,Historia (Dr.),col_20.500.12404_1576
+284,Historia (Lic.),col_20.500.12404_28
+285,Historia (Mag.),col_20.500.12404_764
+286,Humanidades,col_20.500.12404_1392
+287,Humanidades,col_20.500.12404_4744
+288,• Humanidades,col_20.500.12404_14001
+289,Humanidades con mención en Arqueología,col_20.500.12404_16566
+290,Humanidades con mención en Ciencias de la Información,col_20.500.12404_16567
+291,Humanidades con mención en Estudios Latinoamericanos,col_20.500.12404_17088
+292,Humanidades con mención en Estudios Peruanos,col_20.500.12404_17090
+293,Humanidades con mención en Estudios sobre Lenguaje y Cultura,col_20.500.12404_17089
+294,Humanidades con mención en Estudios Teóricos y  Críticos,col_20.500.12404_6404
+295,Humanidades con mención en Filosofía,col_20.500.12404_12655
+296,Humanidades con mención en Geografía y Medio Ambiente,col_20.500.12404_15907
+297,Humanidades con mención en Historia,col_20.500.12404_16568
+298,Humanidades con mención en Lingüística y Literatura,col_20.500.12404_16570
+299,Informática,col_20.500.12404_765
+300,Informática con mención en Ciencias de la Computación,col_20.500.12404_6357
+301,Informática con mención en Ingeniería de Software,col_20.500.12404_6358
+302,Ingeniería Biomédica,col_20.500.12404_16536
+303,Ingeniería Biomédica,col_20.500.12404_14255
+304,Ingeniería Civil con mención en Diagnóstico y Reparación de Construcciones Patrimoniales y Existentes,col_20.500.12404_16509
+305,Ingeniería Civil con mención en Estructuras Sismorresistentes,col_20.500.12404_16510
+306,Ingeniería Civil con mención en Gestión de Riesgos Naturales,col_20.500.12404_16511
+307,Ingeniería Civil (Lic.),col_20.500.12404_11
+308,Ingeniería Civil (Mag.),col_20.500.12404_766
+309,Ingeniería de Control y Automatización,col_20.500.12404_767
+310,Ingeniería de las Telecomunicaciones (Lic.),col_20.500.12404_17
+311,Ingeniería de las Telecomunicaciones (Mag.),col_20.500.12404_5261
+312,Ingeniería de Minas,col_20.500.12404_16
+313,Ingeniería de Soldadura,col_20.500.12404_6207
+314,Ingeniería (Dr.),col_20.500.12404_9314
+315,Ingeniería Electrónica,col_20.500.12404_12
+316,Ingeniería Electrónica (Mag.),col_20.500.12404_4460
+317,Ingeniería Geológica,col_20.500.12404_13060
+318,Ingeniería Industrial,col_20.500.12404_13
+319,Ingeniería Industrial,col_20.500.12404_7518
+320,Ingeniería Industrial con mención en Finanzas,col_20.500.12404_16512
+321,Ingeniería Industrial con Mención en Gestión de Operaciones,col_20.500.12404_4477
+322,Ingeniería Industrial con mención en Logística,col_20.500.12404_16513
+323,Ingeniería Informática,col_20.500.12404_14
+324,Ingeniería Mecánica (Lic.),col_20.500.12404_15
+325,Ingeniería Mecánica (Mag.),col_20.500.12404_768
+326,Ingeniería Mecatrónica (Lic.),col_20.500.12404_4486
+327,Ingeniería Mecatrónica (Mag.),col_20.500.12404_1750
+328,Ingeniería y Ciencia de los Materiales,col_20.500.12404_5041
+329,Ingeniería y Gestión de Cadenas de Suministro,col_20.500.12404_16514
+330,Integración e Innovación Educativa de las Tecnologías de la Información y la Comunicación,col_20.500.12404_5568
+331,Intervención Clínica Psicoanalítica,col_20.500.12404_14009
+332,Investigación Jurídica,col_20.500.12404_7279
+333,Lingüística con mención en Estudios Andinos,col_20.500.12404_4525
+334,Lingüística con mención en Estudios Andinos (Dr.),col_20.500.12404_12265
+335,Lingüística (Mag.),col_20.500.12404_771
+336,Lingüística y Literatura con mención en Lingüística,col_20.500.12404_16548
+337,Lingüística y Literatura con mención en Literatura Hispánica,col_20.500.12404_16547
+338,Literatura Hispanoamericana,col_20.500.12404_16483
+339,Literatura Hispanoamericana,col_20.500.12404_839
+340,Logística,col_20.500.12404_16515
+341,Matemáticas Aplicadas,col_20.500.12404_1467
+342,Matemáticas Aplicadas con mención en Aplicaciones a la Economía,col_20.500.12404_16516
+343,Matemáticas Aplicadas con mención en Procesos Estocásticos,col_20.500.12404_16517
+344,Matemáticas (Dr.),col_20.500.12404_1572
+345,Matemáticas (Lic.),col_20.500.12404_6444
+346,Matemáticas (Mag.),col_20.500.12404_769
+347,Música,col_20.500.12404_7736
+348,Musicología,col_20.500.12404_14932
+349,Periodismo,col_20.500.12404_951
+350,Planificación de la Educación,col_20.500.12404_772
+351,Políticas Educativas,col_20.500.12404_1353
+352,Política y Gestión Universitaria,col_20.500.12404_5617
+353,Prevención y Control de la Corrupción,col_20.500.12404_10017
+354,Procesamiento de Señales e Imágenes Digitales.,col_20.500.12404_5040
+355,Psicología,col_20.500.12404_773
+356,Psicología,col_20.500.12404_16549
+357,Psicología,col_20.500.12404_15781
+358,• Psicología Clínica,col_20.500.12404_23
+359,Psicología Clínica de la Salud,col_20.500.12404_1637
+360,Psicología Clínica de la Salud con mención en Enfermedades Crónicas,col_20.500.12404_16518
+361,Psicología Clínica de la Salud con mención en Psicooncología,col_20.500.12404_16519
+362,Psicología Comunitaria,col_20.500.12404_1636
+363,Psicología Comunitaria con mención en Intervención en Desastres,col_20.500.12404_6361
+364,Psicología Comunitaria con mención en Salud Mental,col_20.500.12404_6362
+365,Psicología con mención en Evaluación Clínica,col_20.500.12404_16521
+366,• Psicología con mención en Psicología Clínica,col_20.500.12404_9473
+367,• Psicología con mención en Psicología Educacional,col_20.500.12404_9474
+368,• Psicología con mención en Psicología Social,col_20.500.12404_9471
+369,Psicología (Dr.),col_20.500.12404_4436
+370,• Psicología Educacional,col_20.500.12404_24
+371,• Psicología Social,col_20.500.12404_25
+372,Publicidad,col_20.500.12404_952
+373,Química (Lic.),col_20.500.12404_591
+374,Química (Mag.),col_20.500.12404_770
+375,Regulación de los Servicios Públicos,col_20.500.12404_829
+376,"Regulación, Gestión y Economía Minera",col_20.500.12404_8966
+377,Relaciones Internacionales,col_20.500.12404_16540
+378,Relaciones Internacionales con mención en Gestión Pública Externa,col_20.500.12404_7252
+379,Relaciones Laborales,col_20.500.12404_1355
+380,Sociología con mención en Análisis Organizacional y Cultura,col_20.500.12404_16520
+381,Sociología con mención en Desarrollo,col_20.500.12404_5143
+382,Sociología con mención en Desarrollo y Políticas Sociales,col_20.500.12404_23445
+383,Sociología con mención en Población,col_20.500.12404_6413
+384,Sociología (Dr.),col_20.500.12404_5364
+385,Sociología (Lic.),col_20.500.12404_9
+386,Sociología (Mag.),col_20.500.12404_774
+387,Teatro,col_20.500.12404_12272
+388,Trastornos de la Comunicación Humana,col_20.500.12404_775
