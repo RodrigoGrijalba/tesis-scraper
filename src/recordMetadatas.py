@@ -48,7 +48,9 @@ def main():
                 filteredMetadata = metadataFromRequest(metadataRequest)
                 output = pd.concat([output, filteredMetadata])
         
-        output.reset_index(drop=True).to_csv(f"data/{outputFileName}.csv", encoding="utf-8-sig")
+        output = output.reset_index(drop=True)
+        output.columns = pd.Index([column.split(".")[-1] for column in output.columns])
+        output.to_csv(f"data/{outputFileName}.csv", encoding="utf-8-sig")
         # save final df
 
 if __name__ == "__main__":
