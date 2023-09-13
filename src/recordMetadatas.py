@@ -1,60 +1,55 @@
 import pandas as pd
-from urllib.request import urlretrieve
-from oaipmh.client import Client
-from oaipmh.metadata import MetadataRegistry, oai_dc_reader
+import requests
+import bs4
+import os
 
-# TODO: add all sets listed in Header for each record to metadata
-
-URL = "https://tesis.pucp.edu.pe/oai/request"
-setList = pd.read_csv(
-        "data/setList.csv", 
-        encoding="utf-8-sig"
-)
-setNames = [
-        "Economía (Lic.)", 
-        "Ciencia Política y Gobierno (Lic.)"
+dataPaths = [f"data/items/{file}" for file in os.listdir("data/items")]
+metadataFields = [
+        "dc.contributor.advisor",
+        "dc.contributor.author",
+        "dc.date.created",
+        "dc.identifier.uri",
+        "dc.title", 
+        "dc.description.abstract",
+        "thesis.degree.discipline"
 ]
+outputFileName = "recordMetadatas"
 
-def cleanMetadataEntries(recordMetadata):
-        for key, value in recordMetadata.items():
-                if len(value) > 1:
-                        recordMetadata[key] = "\n".join(value)
-                
-                if len(value) == 0:
-                        recordMetadata[key] = "Missing"
-        
-        return recordMetadata
+def getItemMetadataLinks(file):
+        collectionItemLinks = pd.read_xml(file)
+        metadataLinks = list(collectionItemLinks.link.values[:])
+        return metadataLinks
 
-def DataFramesFromClient(client, setCode, collection):
-        metadata = pd.DataFrame()
-        # header = pd.DataFrame()
+def metadataFromRequest(metadataRequest):
+        metadata = pd.json_normalize(metadataRequest.json())
+        filteredMetadata = metadata[metadata.key.isin(metadataFields)][["key", "value"]]
+        filteredMetadata = filteredMetadata.groupby(["key"]).agg(lambda col: "\n".join(col)).reset_index()
+        filteredMetadata.index = filteredMetadata["key"]
+        filteredMetadata = pd.DataFrame([filteredMetadata.T.reset_index().iloc[1, 1:]])
+        return filteredMetadata
 
-        for record in client.listRecords(
-                metadataPrefix='oai_dc', 
-                set = setCode
-        ):
-                recordMetadata = record[1].getMap()
-                recordMetadata = cleanMetadataEntries(recordMetadata)
-                recordMetadata = pd.DataFrame.from_dict(recordMetadata)
-                recordMetadata.fillna("", inplace=True)
-                recordMetadata["collection"] = collection
-                metadata = pd.concat([metadata, recordMetadata])
-        
-        return metadata
 
 def main():
-        recordMetadatas = pd.DataFrame()
-
-        for collection in setNames:
-                setCode = setList[setList["name"] == collection]["code"].values[0]
-                print(setCode)
-                registry = MetadataRegistry()
-                registry.registerReader('oai_dc', oai_dc_reader)
-                client = Client(URL, registry)
-                collectionMetadata = DataFramesFromClient(client, setCode, collection)
-                recordMetadatas = pd.concat([recordMetadatas, collectionMetadata])
+        output = pd.DataFrame()
+        # dataframe creation for each path
+        itemMetadataLinks = []
+        for file in dataPaths:
+                itemMetadataLinks += getItemMetadataLinks(file)
         
-        recordMetadatas.to_csv("data/recordMetadatas.csv", encoding="utf-8-sig")
+        print(f"Fetching metadata for all {len(itemMetadataLinks)} entries. This may take a while")
+        print(" ---+--- 1 ---+--- 2 ---+--- 3 ---+--- 4 ---+--- 5")
+
+        for index, link in enumerate(itemMetadataLinks):
+                print(".", end="")
+                if (index + 1) % 50 == 0:
+                        print("     ", index + 1, sep="")
+                metadataRequest = requests.get(f"https://tesis.pucp.edu.pe{link}/metadata")
+                # dict with desired link contents
+                filteredMetadata = metadataFromRequest(metadataRequest)
+                output = pd.concat([output, filteredMetadata])
+        
+        output.reset_index(drop=True).to_csv(f"data/{outputFileName}.csv", encoding="utf-8-sig")
+        # save final df
 
 if __name__ == "__main__":
         main()

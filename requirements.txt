@@ -2,3 +2,4 @@ pandas
 beautifulsoup4
 pyoai
 lxml
+requests
