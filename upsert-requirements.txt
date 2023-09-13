@@ -1,0 +1,8 @@
+langchain
+transformers
+pinecone-client
+openai
+tiktoken
+python-dotenv
+pandas
+numpy

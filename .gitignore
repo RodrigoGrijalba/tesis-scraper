@@ -1,3 +1,4 @@
 *env
 *.ipynb
 *examples*
+*__pycache__
